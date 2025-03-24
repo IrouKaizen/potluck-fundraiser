@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Header from '@/components/Header';
@@ -54,7 +53,7 @@ const recentFundraisers = [
   {
     id: '5',
     title: 'Historic Theater Restoration',
-    description: 'Help preserve our town's historic theater, a cultural landmark that has been part of our community for over 80 years.',
+    description: "Help preserve our town's historic theater, a cultural landmark that has been part of our community for over 80 years.",
     image: 'https://images.unsplash.com/photo-1503095396549-807759245b35?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80',
     currentAmount: 15000,
     targetAmount: 50000,
